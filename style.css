@@ -1,0 +1,4 @@
+p::after {
+  content: attr(data-value);
+}
+/*# sourceMappingURL=style.css.map */
